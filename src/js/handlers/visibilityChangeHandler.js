@@ -1,4 +1,4 @@
-import { set } from '../store';
+import {set} from '../store';
 
 /**
  * @param {void}
@@ -17,4 +17,5 @@ function visibilityChangeHandler() {
     });
   }
 }
+
 export default visibilityChangeHandler;

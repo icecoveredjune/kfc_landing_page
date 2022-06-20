@@ -18,5 +18,5 @@ document.addEventListener('DOMContentLoaded', () => {
   menuSlider.addEventListener('touchmove', handleMenusTouchMove, false);
   menuNavVisibilityToggle();
   clonePromoSliderItems();
-  movePromoSlider(2000);
+  movePromoSlider(5000);
 });
